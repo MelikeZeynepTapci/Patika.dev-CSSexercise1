@@ -1,0 +1,41 @@
+.italic-text{
+    font-style: italic; 
+}
+body{
+    background-color: rgba(250, 240, 248, 0.288);
+}
+h1{
+    color: #56919e;
+    font-family: 'Amarante', cursive;
+    text-shadow: rgb(231, 230, 224) 1px 0 10px;
+}
+h2{
+    color: #9C7A97;
+    font-family: 'Acme', sans-serif;
+}
+a:link {
+    color: #9C7A97;
+    font-family: 'Acme', sans-serif;
+  }
+a:visited {
+    color: #888DA7;
+    font-family: 'Acme', sans-serif;
+}
+p{
+    color: darkslategray;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+li{
+    color: darkslategray;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+h3{
+    
+    color: #9C7A97;
+    font-family: 'Acme', sans-serif;
+    
+}
+.center {
+    display: block;
+    margin: 0 auto;
+  }
